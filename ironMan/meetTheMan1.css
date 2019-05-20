@@ -1,0 +1,32 @@
+.parallax{
+  background: url('https://i1.wp.com/www.8daysageek.com/wp-content/uploads/2012/05/avengers-a.png?fit=807%2C553');
+  height: 600px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.navbar{
+	margin-bottom: 0;
+	font-family:'Audiowide', cursive;
+}
+#start{
+	font-family: 'Chivo', sans-serif;
+	font-style: bold;
+	font-size: 3em;
+	text-align: center;
+
+}
+#name{
+	font-family: 'Playfair Display', serif;
+	font-size:5em;
+	text-align: center;
+	font-style: bold;
+	font-weight:600;
+
+}
+.content{
+	background-color:black;
+	padding-left: 8%;
+	padding-right:8%;
+}

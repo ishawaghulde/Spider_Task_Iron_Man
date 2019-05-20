@@ -1,0 +1,38 @@
+body{
+	background-color:#FADBD8;
+}
+h1{
+	font-weight: 700;
+	font-size: 4.3em;
+}
+.content{
+	font-family: 'Lora', serif;
+	font-size: 2em;
+	text-align: center;
+	color:black;
+	padding-top: 10%;
+}
+#head{
+	font-family: 'Montserrat', sans-serif;
+	font-size:2.5em;
+	text-align: center;
+	color:black;
+
+}
+.navbar{
+	margin-bottom: 0;
+	font-family:'Audiowide', cursive;
+	margin-top:0;
+	padding-top: 0;
+	border-top: 0;
+}
+.thumbnail{
+	background-color: #FADBD8;
+}	
+.tots{
+	border: 4px solid black;
+}
+
+
+
+

@@ -1,0 +1,69 @@
+
+html{
+	height: 100%;
+	background-color: black;
+}
+.parallax{
+  background: url('https://i1.wp.com/www.8daysageek.com/wp-content/uploads/2012/05/avengers-a.png?fit=807%2C553');
+  height: 600px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  /*text-align: center;
+  padding-top: 28%;
+  padding-left: 8%;
+  padding-right: 8%;
+  text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+	             0px 8px 13px rgba(0,0,0,0.1),
+	             0px 18px 23px rgba(0,0,0,0.4);
+  font-family: 'Audiowide', cursive;
+  color: white;
+  background-color: black;*/
+}
+
+.navbar{
+	margin-bottom: 0;
+	font-family:'Audiowide', cursive;
+}
+
+#start{
+	text-align: center;
+  padding-top: 28%;
+  padding-bottom: 10%;
+  padding-left: 8%;
+  padding-right: 8%;
+  text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+	             0px 8px 13px rgba(0,0,0,0.1),
+	             0px 18px 23px rgba(0,0,0,0.4);
+  font-family: 'Audiowide', cursive;
+  color: white;
+  background-color: black;
+  margin-bottom: 0;
+ 
+}
+.row{
+	padding-top:10%;
+}
+
+
+h1{
+	font-weight: 400;
+	font-size: 2.2em;
+}
+#content{
+	text-align:center;
+	font-family:'Audiowide', cursive;
+	color: white;
+	font-weight: 100;
+	font-size: 1.3em;
+	background-color: black;
+	margin-top: 0;
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-top:10%;
+	margin-top: 0;
+}
+
+
